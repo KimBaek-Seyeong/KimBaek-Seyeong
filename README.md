@@ -4,7 +4,8 @@
 <!--
 ### :sunglasses: Wanna be a full-stack developer :sunglasses:
 -->
-### 🎓 Bachelor of Science in Biological Sciences,<br>Information Technology Engineering 🎓<br><br><br>
+#### :sunglasses: *Growing* developer, Wanna be a full-stack developer :sunglasses:
+#### 🎓 Bachelor of Science in Biological Sciences, Information Technology Engineering 🎓<br><br><br>
 ### 📚 Technology Stack 📚
 #### AWS C C++ Git Java JavaScript MySQL Nodejs Perl Python R
 
