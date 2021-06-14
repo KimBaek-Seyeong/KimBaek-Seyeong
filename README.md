@@ -2,8 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=KimBaek%20Seyeong&animation=fadeIn&fontSize=70&fontAlignY=40&desc=Hi%20there✨%20%20Welcome%20to%20my%20space!&descAlignY=63&descAlign=66)
 	
-### :sunglasses: Wanna be a full-stack developer
-#### 🎓 Bachelor of Science in Biological Sciences, Information Technology Engineering <br><br><br>
+### :sunglasses: Wanna be a full-stack developer :sunglasses:
+#### 🎓 Bachelor of Science in Biological Sciences, <br>Information Technology Engineering 🎓<br><br><br>
 ### 📚 Technology Stack 📚
 #### AWS C C++ Git Java JavaScript MySQL Nodejs Perl Python R
 
