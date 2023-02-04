@@ -13,7 +13,7 @@
   📚 Technology Stack 📚
 </h3>
 <p align=center>
-  AWS C C++ Git Java JavaScript MySQL NodeJs Perl Python R
+  C C++ Java JavaScript Python MySQL Oracle
 </p>
 
 <!--
