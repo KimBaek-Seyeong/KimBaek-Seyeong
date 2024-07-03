@@ -5,7 +5,7 @@
 </div>
 
 <p align=center>
-  :sunglasses: <b>Growing</b> developer, Wanna be a <b>full-stack</b> developer :sunglasses:<br>
+  :sunglasses: <b>Growing</b> developer, Wanna be a <b>Database Administrator</b> :sunglasses:<br>
   🎓 Bachelor of Science in Biological Sciences, Information Technology Engineering 🎓<br><br>
 </p>
 
