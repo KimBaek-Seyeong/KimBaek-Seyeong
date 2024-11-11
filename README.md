@@ -19,8 +19,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimBaek-Seyeong" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimBaek-Seyeong&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimBaek-Seyeong" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimBaek-Seyeong&layout=compact" height="175" />
 </div>
 
 <!--
