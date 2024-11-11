@@ -13,7 +13,7 @@
   📚 Technology Stack 📚
 </h3>
 <p align=center>
-  C C++ C# Java JavaScript Python MySQL Oracle SQLServer
+  Java C# Python JavaScript TypeScript MySQL Oracle SQLServer
 </p>
 
 <br/>
