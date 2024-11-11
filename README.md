@@ -16,13 +16,19 @@
   C C++ C# Java JavaScript Python MySQL Oracle SQLServer
 </p>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimBaek-Seyeong" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimBaek-Seyeong&layout=compact" height="200" />
+</div>
+
 <!--
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom" /></a>&nbsp
   <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
-  
 </p>
 
   ### :sunglasses: Wanna be a full-stack developer :sunglasses:
@@ -34,4 +40,3 @@
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)	
 
 </div>
-
