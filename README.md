@@ -5,7 +5,7 @@
 </div>
 
 <p align=center>
-  :sunglasses: Developer at Heart | Keen on Building Software & Diving into Data Engineering :sunglasses:<br>
+  :sunglasses: Developer at Heart, Keen on Building Software & Diving into Data Engineering :sunglasses:<br>
   🎓 Bachelor of Science in Biological Sciences, Information Technology Engineering 🎓<br><br>
 </p>
 
